@@ -1,0 +1,4 @@
+plot_id,altitude_m,healthy_trees,stressed_trees,seedlings_count
+Plot_01,1450,42,8,19
+Plot_02,1620,55,4,31
+Plot_03,1800,38,14,12
